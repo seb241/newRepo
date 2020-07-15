@@ -32,9 +32,8 @@
 			      <username>Sase123</username>
 			      <password>Aba12345@</password>
 			      <applicationName>customer11</applicationName>
-			      <environment>Sandbox</environment>
-			      <workers>1</workers>
-			      <objectStoreV2>true</objectStoreV2>
+			      <environment>Sandbox</environment>		
+			      <workers>1</workers>	
 			      <workerType>Micro</workerType>
 			      <properties>
         <key>value</key>
